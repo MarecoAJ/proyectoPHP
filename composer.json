@@ -1,0 +1,12 @@
+{
+    "name": "a.j.mareco/proyectophp",
+    "description": "Proyecto de POO",
+    "autoload":{
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
